@@ -19,7 +19,7 @@ public class Main {
         Random rand = new Random();
         double multiplier = rand.nextDouble() + 0.5;
         double hit = multiplier * intelligence * 5;
-        System.out.print("You are facing a level 10 Orc with 100 Hit Points. \nType 'Play' to play turn 1.");
+        System.out.print("You are facing a level 10 Orc with 1000 Hit Points. \nType 'Play' to play turn 1.");
         sc.next();
         double hp1 = 1000-hit;
         System.out.println("The Orc has " + hp1 + "hit points left");
