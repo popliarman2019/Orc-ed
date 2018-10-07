@@ -4,7 +4,7 @@ You are a mage.Choose your skills. (Note: Each skill must have at least 10 point
 Choose your strength: 10
 Choose your Agility: 10
 Choose your Intelligence: 21
-You are facing a level 10 Orc with 100 Hit Points. 
+You are facing a level 10 Orc with 1000 Hit Points. 
 Type 'Play' to play turn 1.Play
 The Orc has 859.8333243504582hit points left
 Type 'play' to play turn 2.Play
