@@ -1,0 +1,30 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=59313:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/armanpopli/IdeaProjects/Orc'ed/out/production/Orc'ed Main
+Name your charactar: Arman
+You are a mage.Choose your skills. (Note: Each skill must have at least 10 points and the sum of your three traits cannot exceed 50 points)
+Choose your strength: 10
+Choose your Agility: 10
+Choose your Intelligence: 21
+You are facing a level 10 Orc with 100 Hit Points. 
+Type 'Play' to play turn 1.Play
+The Orc has 859.8333243504582hit points left
+Type 'play' to play turn 2.Play
+The Orc has 711.160077412608hit points left
+Type 'play' to play turn 3.Play
+The Orc has 648.2786159860409hit points left
+Type 'play' to play turn 4.Play
+The Orc has 533.5284830410842hit points left
+Type 'play' to play turn 5.Play
+The Orc has 403.10971999456945hit points left
+Type 'play' to play turn 6.Play
+The Orc has 315.19247237165746hit points left
+Type 'play' to play turn 7.Play
+The Orc has 178.09842605882318hit points left
+Type 'play' to play turn 8.Play
+The Orc has 46.047846857235356hit points left
+Type 'play' to play turn 9.Play
+The Orc has -66.0056664692192hit points left
+Type 'play' to play turn 10.Play
+Thanks for playing. Final Orc HP is -155.9555422565769.
+If the number is negative, you have beaten the Orc
+
+Process finished with exit code 0
